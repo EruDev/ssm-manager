@@ -123,13 +123,13 @@
 
 #### 主页面
 
-![1](C:\Code\2019\JavaProject\ssm-manager\imgs\1.png)
+![1](https://github.com/EruDev/ssm-manager/blob/master/imgs/1.png)
 
 #### 添加页面
 
 
 
-![2](C:\Code\2019\JavaProject\ssm-manager\imgs\2.png)
+![2](https://github.com/EruDev/ssm-manager/blob/master/imgs/2.png)
 
 #### ajax 交互遇到的坑
 
